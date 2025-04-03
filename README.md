@@ -26,7 +26,7 @@ Database: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=pos
 
 ---
 🌟 **Projects I'm Proud Of:**  
-- **[Portfolio Site](https://github.com/Yedhukj/portfolio)**: A sleek personal site built with React & Django. [![Live Demo](https://img.shields.io/badge/-Live%20Demo-green)](https://your-portfolio.vercel.app)  
+- **[Portfolio Site](https://github.com/Yedhukj/portfolio)**: A sleek personal site built with React & Django.
 - **[Task API](https://github.com/Yedhukj/task-api)**: RESTful API using Flask and PostgreSQL.  
 
 ---
